@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib.pyplot
+IPython.display 
+  display 
+  clear_output
+scipy.signal 
+  periodogram
+  detrend
+  butter
+  filtfilt
